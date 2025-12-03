@@ -7,4 +7,4 @@ numpy
 matplotlib
 seaborn
 jupyter
-
+mlflow

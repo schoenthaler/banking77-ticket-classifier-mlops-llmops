@@ -117,3 +117,7 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
+# MLflow
+mlruns/
+mlflow.db
+
