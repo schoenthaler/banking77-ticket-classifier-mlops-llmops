@@ -93,10 +93,11 @@ ehthumbs.db
 Thumbs.db
 desktop.ini
 
-# Environment variables
+# Environment variables and secrets
 .env
 .env.local
 .env.*.local
+secrets.json
 
 # Temporary files
 *.tmp
