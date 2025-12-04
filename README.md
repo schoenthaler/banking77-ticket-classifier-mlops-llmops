@@ -448,7 +448,4 @@ This project is for educational and research purposes.
 - [PyTorch Quantization](https://pytorch.org/docs/stable/quantization.html)
 - [Banking77 Paper](https://arxiv.org/abs/2003.04807)
 
----
-
-**Happy Classifying! 🚀**
 
